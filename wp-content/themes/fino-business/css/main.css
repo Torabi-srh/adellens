@@ -1,0 +1,412 @@
+ /* Theme color Css */ 
+  
+  a{
+		color:#374bb9;
+	}
+	
+	.menubar .dropdown a:hover 
+	{
+		background-color:#374bb9;
+		
+	}
+	
+	  .btn-fino:hover {
+    background-color: #374bb9;
+}
+	.filter-btn.active, .service-inner.even
+	{
+		background-color:#374bb9;
+	}
+	.btn-fino {
+    border: 2px solid #374bb9;
+	}
+	
+	.panel-link.collapsed {
+		border-bottom-color: #374bb9;
+	}
+	.next:hover, .prev:hover, .panel-link::after, .post-detail-meta a:hover, .user-post h4 span
+	.user-comments h4, .reply:hover,  .page404 h2, .page404 .btn-fino, .banner li .active, .residenc h4, .post-detail-meta a:hover,
+	.blog-content h4 a:hover, .post-detail-meta a:hover, .banner-link li, .case-info a:hover, .btn-fino.bss, .user-comments h4, .user-post h4 span
+	{
+		color: #374bb9;
+	}
+	.panel-link.collapsed::after, .timeline-block:nth-child(even) .timeline-icon, .filter-btn.active, .project-detail h4,
+	.single-team-detail li i, .cta .btn-fino, .fino-slider .owl-nav .owl-prev, .fino-slider .owl-nav .owl-next, .slide-content .btn-fino:hover,
+	.btn-fino:hover, .menubar .dropdown a:hover,
+	{
+		background-color: #374bb9;
+    }
+	.fino-pagination .pagin.active,
+	.fino-pagination .pagin:hover {
+		border-bottom: 5px solid #374bb9;
+		color: #374bb9;
+	}
+	.filter-btn
+	{
+		color: #374bb9;
+		border: 1px solid #374bb9;
+	}
+	.fino-pagination .pagin.active,.fino-pagination .pagin:hover
+	{
+		border-bottom: 5px solid #374bb9;
+		color: #374bb9;
+		font-weight: 600;
+	}
+	
+	.t-date,.timeline-block:nth-child(even) .timeline-icon, .timeline-block:nth-child(even) .timeline-icon::after, .timeline-block:nth-child(even) .timeline-icon::before
+	{
+		background-color: #374bb9;
+	}
+	
+	.all-title h3::after, .all-title h3::before, .all-title h3 span::after, .all-title h3 span::before, .top-head ul, .menubar .dropdown a:hover,
+	.menubar .dropdown a, .widget_calendar table caption, .quote::after	
+	{
+		background-color: #374bb9;
+	}
+	.btn-blog-h:hover
+	{
+		color: #374bb9;
+		border-bottom: 1px solid #374bb9;
+	}
+	.fino-pagination .page-numbers.current, .fino-pagination .page-numbers:hover
+	{
+		border-bottom: 5px solid #374bb9;
+		color: #374bb9;
+	}
+	
+	.btn-fino:before{
+	  border-bottom-color:#374bb9;
+	}
+	.btn-fino:after{
+	  border-top-color: #374bb9;
+	}
+	.top-head {
+	  border-bottom-color: #374bb9 !important;
+	  background-color:#374bb9 !important;
+	}
+	.all-title h3::after,
+	.all-title h3::before,
+	.all-title h3 span::after,
+	.all-title h3 span::before,
+	.top-head ul {
+	  background-color: #374bb9;
+	}
+	.slide-content .btn-fino:hover{
+	  border-color: #374bb9;
+	}
+	.mobile-menu .has-sub.current .menu-link,
+	.mobile-menu a:hover,
+	.slide-content h3 {
+	  color: #374bb9;
+	}
+	 
+	.fino-slider .owl-nav [class*="owl-"]:hover {
+	  background-color: #fff;
+	  color: #374bb9;
+	}
+	.fino-slider .owl-nav .owl-prev,
+	.fino-slider .owl-nav .owl-next {
+	  background-color: #374bb9;
+	}
+
+	.fino-slider .owl-dots .owl-dot.active span,
+	.fino-slider .owl-dots .owl-dot:hover span {
+	  background-color: #374bb9;
+	}
+	.grow-business .btn-fino {
+		border-color: #374bb9;
+		color: #374bb9;
+	  }
+	  .grow-business .btn-fino:hover {
+		background-color: #374bb9;
+		color: #fff;
+	  }
+	  .buz-video .vid-btn{
+		background-color: #374bb9;
+	  }
+	  .buz-video .vid-btn i {
+		color: #fff;
+	  }
+ 
+	  .quote::after{
+		background-color: #374bb9;
+	}
+	.defi-wrap:hover::after,
+	.defi-wrap.current::after,
+	.defi-wrap::before{
+		background-color: #374bb9;
+	}
+	.defi-wrap h4 {
+	  color: #374bb9;
+	}
+	.defi-icon i{
+	  color: #374bb9;
+	}
+	.service-2 .defi-wrap:hover{
+	  border-color: #374bb9;
+	}
+	.case-tab{
+		border-bottom-color:#374bb9;
+	}
+	.case-tab::before {
+		border-bottom-color:#374bb9;
+	}
+	.case-tab:hover,
+	.case-tab.active {
+	  color: #374bb9;
+	}
+	.case-panel-wrap::after {
+	  background-color: #374bb9;
+	}
+	.case-info a:hover{
+	  color: #374bb9;
+	}
+	.team-overlay {
+	  background-color:#374bb9;
+	}
+	.social li a:hover {
+	  background-color: #374bb9;
+	}
+	.icon-holder::after,
+	.icon-holder::before,
+	.icon-holder span::after,
+	.icon-holder span::before {
+		background-color: #374bb9;
+	}
+	.cta-2 .btn-fino {
+	  background-color: #374bb9;
+	  border-color: #374bb9;
+	}
+	.cta-2 p{
+	  color: #374bb9;
+	}
+	.cta-3 {
+	  background-color: #374bb9;
+	}
+	.testimonial::after{
+		background-color: #374bb9;
+	}
+	.timeline-block:nth-child(even) .timeline-icon::after,
+	.timeline-block:nth-child(even) .timeline-icon::before{
+	  background-color: #374bb9;
+	}
+
+	.blog-content h4 a:hover {
+		color: #374bb9;
+	  }
+	  .post-meta a {
+		color: #374bb9;
+	  }
+	  .blog-content .btn-fino {
+		background-color: #374bb9;
+		border-color:#374bb9;
+	  }
+	  .blog-content .btn-fino:hover {
+		background-color: transparent;
+	  }
+	  .btn-blog-h:hover {
+		color: #374bb9;
+		border-bottom: 1px solid #374bb9;
+	  }
+	  .blog-item:hover .blog-content {
+		-webkit-box-shadow: 0px 1px 10px 0px rgba(215, 35, 35, 0.41);
+		box-shadow: 0px 1px 10px 0px rgba(215, 35, 35, 0.41);
+	  }
+	  .partner {
+		background-color: #374bb9;
+	  }
+	  .attach + label strong{
+		border-color:#374bb9;
+		color: #374bb9;
+	  }
+
+	  
+	.soc-links li p a {
+		color: #374bb9;
+	}
+
+	.contact-us .form-control:focus,
+	.contact-us .form-control:hover {
+	  border-color: #374bb9;
+	   
+	}
+	.footer-form .form-control:focus,
+	.footer-form .form-control:hover {
+	  border-color: #374bb9;
+	  
+	}
+	.footer-form .btn-fino {
+	  background-color: #374bb9;
+	  border-color: #374bb9;
+	}
+
+	.menubar .menu-link::before{    
+		background-color: #374bb9;
+	}
+	.menubar .dropdown a{
+		background-color: #374bb9;
+	}
+	
+	.slide-content h3{
+		    color:#374bb9;
+	}
+	.wpcf7-form-control:hover
+	{
+		 border-color: #374bb9;
+	}
+	
+	.progres h4,
+	.progres h5,
+	.progres .per{
+	  color: #374bb9;
+	}
+	#accordion .panel-title > a, #accordion .panel-title > a:hover
+	{
+		    background: #374bb9;
+	}
+	.comment-form .form-control:focus, .comment-form .form-control:hover
+	{
+		    border-color: #374bb9;
+	}
+	.blog-item:hover .blog-content
+	{
+		box-shadow: 0 1px 10px 0 #374bb9;
+
+	}
+	.about-2-tab-area ul .active a
+	{
+		background: #374bb9;
+		border: 1px solid #374bb9;
+	}
+	.about-2-tab-area ul li span:after
+	{
+		border-top: 7px solid #374bb9;
+	}
+	.about-2-tab-area ul li a:hover
+	{
+		background: #374bb9;
+		border: 1px solid #374bb9;
+	}
+	.panel-link.collapsed::after
+	{
+		    background-color: #374bb9;
+	}
+	.single-team .member-info, .single-team-detail li i
+	{
+		    background-color: #374bb9;
+	}
+	.price-header .price-amt
+		{
+			color:#fff;
+		}
+		 
+		.price-btn .btn-fino
+		{
+			border: 2px solid #374bb9;
+			color: #374bb9;
+		}
+		.price-btn .btn-fino:hover
+		{
+			background-color: #374bb9;
+		}
+		.price-btn .btn-fino:after
+		{
+			border-top-color: #374bb9;
+		}
+		.price-btn .btn-fino:before
+		{
+			border-bottom-color: #374bb9;
+		}
+		.pricing-table .price-header::after
+		{
+			background-color: #374bb9;
+			opacity:0.8;
+		}
+	
+.features-inner.even, .features-inner{
+	background-color: #374bb9;
+	
+}	
+
+.tag-cloud-link:hover {
+    background-color: #374bb9;
+    color: #fff;
+}
+
+	
+/* theme header css */
+
+.bottom-head{
+	padding: 7px 0;	
+}
+
+.bottom-head .menu-wrap{
+	margin-bottom:0px;	
+}
+
+
+
+/* slider css  */
+
+.fino-slider .owl-nav .owl-prev, .fino-slider .owl-nav .owl-next{
+	background-color: #fff;
+    color: #000000;
+	border-radius: 2px;
+	
+}
+.slide-content .btn-fino{
+	border-color: #374bb9;
+	background-color: #374bb9;
+	
+
+}
+.fino-slider .owl-dots .owl-dot span{
+	
+	width: 14px;
+    border-radius: 50%;
+    height: 14px;
+}
+
+.slide-content p {
+    
+    max-width: max-content;
+    padding: 0 70px;
+    
+}
+
+/* service */
+
+.features-inner.even, .features-inner {
+    background-color: transparent;
+    border: 2px solid rgba(55, 75, 185, 0.2);
+}
+.features-inner i {
+    color: #374bb9;
+    transform: scale(.9);
+    transition: all .3s ease;
+}
+.features-inner h5 a {
+    color: #0f0f13;
+    text-transform: uppercase;
+}
+.features-inner p{
+	color:#3e3c3c;
+	
+}
+
+.features-inner{	
+	padding: 45px 15px;
+}
+.blog-item:hover .blog-content {
+	box-shadow:none;
+}
+.blog-item .blog-content {
+    margin: 0px 0px;
+    position: relative;
+    border: 1px solid rgba(0,0,0,0.1);
+	box-shadow:none;
+}
+
+.btn-blog-h i{
+	display:none;
+}
